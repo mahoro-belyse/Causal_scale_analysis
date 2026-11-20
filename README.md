@@ -60,6 +60,4 @@ Results are written to the `results/` folder:
 
 Run times in the paper come from a free Google Colab instance (2 CPU cores, Intel Xeon 2.20 GHz, 12 GB RAM) and will differ on other hardware. Random seeds are fixed in the code.
 
-## Note on AI assistance
 
-The analysis code and the text of the paper were drafted with the help of Claude (Anthropic), with the instructor's written permission. The author ran the code, checked the results and takes responsibility for the content.
